@@ -2,7 +2,7 @@
   <h1> project name: Coffee Website </h1>
   </div>
 
-<div align="center">
+<div>
   <h3> This project use: </h3>
  <ol>
   <li>HTML</li>
